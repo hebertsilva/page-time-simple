@@ -9,3 +9,11 @@
 .ir {
     @include hide-text("left");
 }
+
+.pull-left {
+	float: left;
+}
+
+.pull-right {
+	float: right;
+}
